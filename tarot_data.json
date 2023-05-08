@@ -1,11 +1,11 @@
 [
   {
-    "cardName": "The Fool",
-    "cardMeaning": "A new beginning, unlimited potential, spontaneity, innocence."
+    "name": "The Fool",
+    "meaning": "A new beginning, unlimited potential, spontaneity, innocence."
   },
   {
-    "cardName": "The Magician",
-    "cardMeaning": "Manifestation, resourcefulness, power, inspired action."
+    "name": "The Magician",
+    "meaning": "Manifestation, resourcefulness, power, inspired action."
   },
   // ... 其他牌的資料
 ]
